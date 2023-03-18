@@ -4,12 +4,16 @@ Flutter Simple Calculator is a basic calculator app built using Flutter. The app
 
 ## Screenshots: 
 
+Home Page: 
 ![screen_1](https://user-images.githubusercontent.com/60749099/226124525-c888862b-90eb-45ff-931d-4a87010a65b1.png)
 
+Addition: 
 ![screen_2](https://user-images.githubusercontent.com/60749099/226124531-3e796187-1bad-4097-9a19-53715492479a.png)
 
+Result: 
 ![screen_3](https://user-images.githubusercontent.com/60749099/226124533-64443aae-086e-445e-8789-c5bf4659b08a.png)
 
+Clear: 
 ![screen_4](https://user-images.githubusercontent.com/60749099/226124540-3a8c7d9a-bb95-433b-8819-ad622a177e41.png)
 
 ## Features
